@@ -1,0 +1,59 @@
+Pair,Count,Change1,Change2
+"('Addition Consideration', 'Rephrase')",32,Addition Consideration,Rephrase
+"('Modification Consideration', 'Rephrase')",16,Modification Consideration,Rephrase
+"('Addition Consideration', 'Modification Consideration')",13,Addition Consideration,Modification Consideration
+"('Addition Consideration', 'Addition Example')",11,Addition Consideration,Addition Example
+"('Addition Consideration', 'Formatting')",11,Addition Consideration,Formatting
+"('Rephrase', 'Restructure')",10,Rephrase,Restructure
+"('Modification Example', 'Modification Output Instruction')",9,Modification Example,Modification Output Instruction
+"('Addition Additional Information', 'Rephrase')",9,Addition Additional Information,Rephrase
+"('Formatting', 'Modification Output Instruction')",8,Formatting,Modification Output Instruction
+"('Addition Output Instruction', 'Rephrase')",8,Addition Output Instruction,Rephrase
+"('Modification Output Instruction', 'Rephrase')",8,Modification Output Instruction,Rephrase
+"('Addition Consideration', 'Modification Example')",7,Addition Consideration,Modification Example
+"('Addition Consideration', 'Addition Consideration')",7,Addition Consideration,Addition Consideration
+"('Addition Consideration', 'Removal Additional Information')",7,Addition Consideration,Removal Additional Information
+"('Modification Role', 'Rephrase')",7,Modification Role,Rephrase
+"('Addition Example', 'Formatting')",6,Addition Example,Formatting
+"('Addition Additional Information', 'Addition Consideration')",6,Addition Additional Information,Addition Consideration
+"('Correction', 'Modification Output Instruction')",6,Correction,Modification Output Instruction
+"('Modification Consideration', 'Removal Additional Information')",6,Modification Consideration,Removal Additional Information
+"('Addition Consideration', 'Modification Output Instruction')",6,Addition Consideration,Modification Output Instruction
+"('Addition Example', 'Modification Consideration')",6,Addition Example,Modification Consideration
+"('Correction', 'Modification Consideration')",6,Correction,Modification Consideration
+"('Modification Additional Information', 'Modification Example')",5,Modification Additional Information,Modification Example
+"('Addition Consideration', 'Removal Consideration')",5,Addition Consideration,Removal Consideration
+"('Correction', 'Formatting')",5,Correction,Formatting
+"('Addition Additional Information', 'Modification Consideration')",5,Addition Additional Information,Modification Consideration
+"('Addition Consideration', 'Restructure')",5,Addition Consideration,Restructure
+"('Modification Consideration', 'Modification Example')",5,Modification Consideration,Modification Example
+"('Addition Consideration', 'Addition Output Instruction')",4,Addition Consideration,Addition Output Instruction
+"('Addition Example', 'Modification Output Instruction')",4,Addition Example,Modification Output Instruction
+"('Addition Role', 'Modification Consideration')",4,Addition Role,Modification Consideration
+"('Formatting', 'Restructure')",4,Formatting,Restructure
+"('Formatting', 'Rephrase')",4,Formatting,Rephrase
+"('Modification Output Instruction', 'Removal Role')",4,Modification Output Instruction,Removal Role
+"('Addition Consideration', 'Correction')",4,Addition Consideration,Correction
+"('Modification Consideration', 'Restructure')",3,Modification Consideration,Restructure
+"('Addition Consideration', 'Modification Role')",3,Addition Consideration,Modification Role
+"('Addition Output Instruction', 'Formatting')",3,Addition Output Instruction,Formatting
+"('Correction', 'Rephrase')",3,Correction,Rephrase
+"('Modification Consideration', 'Modification Output Instruction')",3,Modification Consideration,Modification Output Instruction
+"('Generalization', 'Rephrase')",3,Generalization,Rephrase
+"('Removal Consideration', 'Rephrase')",3,Removal Consideration,Rephrase
+"('Removal Example', 'Removal Output Instruction')",3,Removal Example,Removal Output Instruction
+"('Addition Example', 'Modification Example')",2,Addition Example,Modification Example
+"('Modification Consideration', 'Modification Role')",2,Modification Consideration,Modification Role
+"('Addition Output Instruction', 'Modification Additional Information')",2,Addition Output Instruction,Modification Additional Information
+"('Modification Consideration', 'Removal Consideration')",2,Modification Consideration,Removal Consideration
+"('Addition Output Instruction', 'Modification Consideration')",2,Addition Output Instruction,Modification Consideration
+"('Modification Role', 'Removal Consideration')",2,Modification Role,Removal Consideration
+"('Modification Consideration', 'Modification Consideration')",1,Modification Consideration,Modification Consideration
+"('Addition Additional Information', 'Removal Consideration')",1,Addition Additional Information,Removal Consideration
+"('Addition Example', 'Correction')",1,Addition Example,Correction
+"('Modification Example', 'Rephrase')",1,Modification Example,Rephrase
+"('Modification Additional Information', 'Modification Consideration')",1,Modification Additional Information,Modification Consideration
+"('Addition Consideration', 'Generalization')",1,Addition Consideration,Generalization
+"('Modification Additional Information', 'Rephrase')",1,Modification Additional Information,Rephrase
+"('Removal Additional Information', 'Removal Consideration')",1,Removal Additional Information,Removal Consideration
+"('Formatting', 'Removal Consideration')",1,Formatting,Removal Consideration

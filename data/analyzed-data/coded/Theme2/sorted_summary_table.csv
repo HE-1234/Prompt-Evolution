@@ -1,0 +1,23 @@
+taxonomy,Software maintenance activity type: docs,Software maintenance activity type: feat,Software maintenance activity type: refactor,feat,fix,other,refactor
+Rephrase,0.0,1.0,2.0,71.0,15.0,1.0,33.0
+Modification Consideration,0.0,0.0,1.0,59.0,30.0,1.0,15.0
+Addition Consideration,0.0,4.0,0.0,92.0,17.0,0.0,23.0
+Formatting,0.0,0.0,0.0,34.0,13.0,1.0,11.0
+Correction,0.0,1.0,0.0,14.0,12.0,0.0,9.0
+Removal Consideration,0.0,1.0,0.0,22.0,11.0,0.0,4.0
+Modification Output Instruction,0.0,0.0,1.0,22.0,4.0,0.0,11.0
+Addition Additional Information,0.0,1.0,0.0,35.0,3.0,0.0,4.0
+Removal Additional Information,1.0,0.0,0.0,10.0,2.0,0.0,6.0
+Modification Example,0.0,0.0,0.0,13.0,6.0,0.0,7.0
+Addition Example,0.0,0.0,0.0,13.0,3.0,0.0,1.0
+Modification Additional Information,0.0,0.0,0.0,8.0,3.0,0.0,5.0
+Generalization,0.0,0.0,0.0,15.0,2.0,0.0,3.0
+Addition Output Instruction,0.0,0.0,0.0,12.0,2.0,0.0,5.0
+Restructure,0.0,0.0,0.0,11.0,2.0,0.0,3.0
+Modification Role,0.0,0.0,0.0,6.0,2.0,0.0,2.0
+N/A,0.0,0.0,0.0,3.0,1.0,0.0,5.0
+Removal Example,0.0,0.0,0.0,3.0,1.0,0.0,3.0
+Removal Output Instruction,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Addition Role,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+Removal Role,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+Modification Directive,0.0,0.0,0.0,0.0,0.0,0.0,1.0
