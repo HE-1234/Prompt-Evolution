@@ -85,14 +85,6 @@ If you're running LLM-related tasks, ensure your OpenAI API key is set (e.g., vi
 | Structural Conflict          |         4 |
 | Format Misalignment          |         3 |
 
-### Figures
-
-Add the following figures (make sure they are in the repo `assets/` folder):
-
-* ![](assets/figure_heatmap.png) — *Prompt co-change heatmap*
-* ![](assets/figure_component_by_activity.png) — *Component-level changes by maintenance activity*
-* ![](assets/figure_independent_by_activity.png) — *Independent changes by maintenance activity*
-
 ## Citation
 
 If you use this dataset or build upon this work, please cite our paper:
