@@ -95,7 +95,7 @@ If you use this dataset or build upon this work, please cite our paper:
 @inproceedings{PromptingInTheWild2025,
   author    = {Mahan Tafreshipour and Aaron Imani and Eric Huang and Eduardo Almeida and Thomas Zimmermann and Iftekhar Ahmed},
   title     = {Prompting in the Wild: An Empirical Study of Prompt Evolution in Software Repositories},
-  booktitle = {Proceedings of the 20th Intl. Conf. on Mining Software Repositories (MSR)},
+  booktitle = {Proceedings of the 22nd Intl. Conf. on Mining Software Repositories (MSR)},
   year      = {2025},
   note      = {Co-located with ICSE 2025, Lisbon},
   url       = {https://arxiv.org/abs/2412.17298}
