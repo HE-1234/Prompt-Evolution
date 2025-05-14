@@ -97,7 +97,7 @@ Add the following figures (make sure they are in the repo `assets/` folder):
 
 If you use this dataset or build upon this work, please cite our paper:
 
-> Mahan Tafreshipour, Aaron Imani, Eric Huang, Eduardo Almeida, Thomas Zimmermann, Iftekhar Ahmed. "Prompting in the Wild: An Empirical Study of Prompt Evolution in Software Repositories." In Proceedings of the 20th International Conference on Mining Software Repositories (MSR 2025). [arXiv:2411.04299](https://arxiv.org/abs/2411.04299)
+> Mahan Tafreshipour, Aaron Imani, Eric Huang, Eduardo Almeida, Thomas Zimmermann, Iftekhar Ahmed. "Prompting in the Wild: An Empirical Study of Prompt Evolution in Software Repositories." In Proceedings of the 20th International Conference on Mining Software Repositories (MSR 2025). [arXiv:2412.17298](https://arxiv.org/abs/2412.17298)
 
 ```bibtex
 @inproceedings{PromptingInTheWild2025,
@@ -106,7 +106,7 @@ If you use this dataset or build upon this work, please cite our paper:
   booktitle = {Proceedings of the 20th Intl. Conf. on Mining Software Repositories (MSR)},
   year      = {2025},
   note      = {Co-located with ICSE 2025, Lisbon},
-  url       = {https://arxiv.org/abs/2411.04299}
+  url       = {https://arxiv.org/abs/2412.17298}
 }
 ```
 
